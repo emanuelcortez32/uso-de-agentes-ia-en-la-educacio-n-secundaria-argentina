@@ -16,18 +16,18 @@ Este proyecto analiza el uso de **agentes conversacionales de inteligencia artif
 
 ## Estructura de Carpetas
 ```
-/IA_Secundaria_Argentina
-├─ /Fuentes        → Documentos oficiales y académicos
-├─ /Notas          → Fichas de lectura y resúmenes
-├─ /Instrumentos   → Encuestas y entrevistas
-├─ /Datos          → Resultados de campo
-├─ /Graficos       → Tablas y visualizaciones
-├─ /Borradores     → Versiones de trabajo
-└─ /InformeFinal   → Documento final en PDF/DOCX
+/uso-de-agentes-ia-en-la-educacio-n-secundaria-argentina
+├─ /Fonts         → Documentos oficiales y académicos
+├─ /Notes         → Fichas de lectura y resúmenes
+├─ /Instruments   → Encuestas y entrevistas
+├─ /Data          → Resultados de campo
+├─ /Dashboard     → Tablas y visualizaciones
+├─ /Drafts        → Versiones de trabajo
+└─ /Docs          → Documentos finales en PDF
 ```
 
 ## Relevancia
 El estudio es relevante porque aborda un fenómeno emergente con impacto directo en la educación argentina. Aporta evidencia para el diseño de **protocolos escolares** y la **capacitación docente**, contribuyendo a un uso de la IA que sea **inclusivo, crítico y ético**.
 
 ## Licencia
-Uso académico. Citas bajo normas APA 7ª edición.
+Uso académico. Citas bajo normas APA.
